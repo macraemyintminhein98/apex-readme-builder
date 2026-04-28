@@ -1,18 +1,14 @@
 # APEX README Builder
 
-Generate professional and customizable `README.md` files for your GitHub repositories effortlessly. Improve your project's presentation with badges, GIFs, and well-structured content.
+Quickly generate professional and visually appealing GitHub README files. Input your project's details, and get a ready-to-use Markdown file for your repository.
 
 ## Features
+- Intuitive input fields
+- Generates well-structured Markdown
+- Copy to Clipboard option
+- Download `.md` file
 
-- **Project Details**: Easily add project name, description, features, installation, usage, and license information.
-- **Badges Support**: Integrate popular development badges for aesthetics and information.
-- **Template Selection**: Choose from various templates to fit your project style.
-- **Instant Download**: Get your `README.md` file ready for your repository in seconds.
-
-## Get Started
-
-Visit [our website](https://buy.stripe.com/test_dR6g2v2kF3Hk3dGdQQ) to purchase and start building your READMEs today!
-
-## Why APEX README Builder?
-
-Save time and effort while ensuring your GitHub projects look polished and professional, attracting more contributors and users.
+## Usage
+1. Fill in the project details.
+2. Click 'Generate README'.
+3. Copy the markdown or download the file.
